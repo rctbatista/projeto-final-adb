@@ -4,7 +4,7 @@
 
 # COMMAND ----------
 
-repository_path = "file:/Workspace/Repos/rctbatista@gmail.com/Mastercloud-Trilha-03-Onda-2/"
+repository_path = "file:/Workspace/Repos/rctbatista@gmail.com/projeto-final-adb/"
 data_path = repository_path + "src/projeto_final_adb/data/"
 
 # COMMAND ----------
